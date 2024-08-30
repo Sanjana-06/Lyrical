@@ -2,7 +2,7 @@
 
 Lyrical is a React application that allows users to search for song lyrics by entering the artist's name and song title. It provides suggestions for top artists and handles errors gracefully.
 
-![App](App.png)
+![App](App.jpg)
 
 ## Features
 
