@@ -15,11 +15,11 @@ Lyrical is a React application that allows users to search for song lyrics by en
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/lyrics-finder.git
+    git clone https://github.com/Sanjana-06/Lyrical.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd lyrics-finder
+    cd Lyrical
     ```
 3. Install dependencies:
     ```bash
